@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-map-gl-draw": "^0.18.4",
+    "react-map-gl": "^5.2.5",
+    "react-dom": "16.8.6",
+    "react": "16.8.6",
+    "@math.gl/core": "^3.1.3"
+  }
+}
